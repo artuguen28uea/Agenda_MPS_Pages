@@ -1,0 +1,864 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 12988px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 12988px;
+	background:rgba(255,255,255,1);
+}
+
+#group_5 {
+	top: 978px;
+	left: 719px;
+	width: 721px;
+	height: 629px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 723px;
+	height: 631px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#system_metaphor {
+	top: 53px;
+	left: 144px;
+	width: 445px;
+	height: 78.99px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	opacity:0;
+	top: 168px;
+	left: 1px;
+	width: 736px;
+	height: 306px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	border: 8px solid #d9d9d9;
+	background:rgba(217,217,217,0);
+}
+
+#group_4 {
+	top: 0px;
+	left: 719px;
+	width: 721px;
+	height: 978px;
+}
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 723px;
+	height: 980px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#regras_de_neg_cio {
+	top: 278px;
+	left: 144px;
+	width: 445px;
+	height: 67.16px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+#group_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1436px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 721px;
+	height: 559px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#breve_apresenta__o {
+	top: 278px;
+	left: 186px;
+	width: 358px;
+	height: 65px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_1 {
+	top: 1149px;
+	left: 720px;
+	width: 720px;
+	height: 287px;
+}
+
+#group_3 {
+	top: 363px;
+	left: 0px;
+	width: 1440px;
+	height: 1244px;
+}
+
+#rectangle_3_ek1 {
+	top: 194px;
+	left: 0px;
+	width: 722px;
+	height: 1052px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#requisitos {
+	top: 240px;
+	left: 142px;
+	width: 446px;
+	height: 120.18px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#funcionais {
+	top: 447px;
+	left: -7px;
+	width: 373px;
+	height: 73px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#realizar_login_ralizar_deslogin_efetuar_cadastro_de_usu_rio__deletar_usu_rio_criar_evento_definindo_t_tulo__data_e_hora__modificar_atributos_do_evento__deletar_evento {
+	top: 492px;
+	left: 20px;
+	width: 393px;
+	height: 777px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 35px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#para_entrar_no_app__o_email_digitado_no_login_deve_ter_sido_previamente_cadastrado_e_a_senha_deve_ser_v_lida__para_cadastrar__o_usu_rio_deve_utilizar_um_e_mail_que_n_o_esteja_previamente_cadastrado__s__poder__haver_um_evento_por_data_e_hora__caso_o_contr_rio__n_o_ser__poss_vel_salvar_nem_modific__lo__ap_s_o_logout__o_usu_rio_dever__se_cadastrar_novamente_para_reutilizar_a_aplica__o_e_suas_funcionalidades__o_app_s__notificar__um_evento_se_o_usu_rio_estiver_logado_ {
+	top: 0px;
+	left: 730px;
+	width: 765px;
+	height: 643px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 35px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#inserir_descri__o_sobre_o_envento_inserir_foto_de_usu_rio_realizar_notifica__o_do_evento_atribuir_uma_cor_a_um_evento_navegabiliade_no_calend_rio_por_m_s_ {
+	top: 492px;
+	left: 385px;
+	width: 350px;
+	height: 777px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 35px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#n_o_funcionais {
+	top: 447px;
+	left: 364px;
+	width: 373px;
+	height: 73px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+#group_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 518px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 246px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(168.94,168.94,168.94,1);
+}
+
+
+#rectangle_2 {
+	top: 9px;
+	left: 11px;
+	width: 1417px;
+	height: 227px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(100.94,107.1,255,1);
+}
+
+
+#agenda_mps {
+	top: 16px;
+	left: 32px;
+	width: 614px;
+	height: 155px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 96px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__sua_ordem__seu_progresso_ {
+	top: 104px;
+	left: 837px;
+	width: 497px;
+	height: 65px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#por_arthur_uguen_de_mendon_a {
+	top: 130px;
+	left: 25px;
+	width: 509px;
+	height: 65px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#agenda_mps_chegou_para_revolucionar_o_modo_como_voc__organiza_seu_dia__unindo_o__til_ao_agrad_vel_na_hora_de_gerenciar_seus_eventos_di_rios {
+	top: 333px;
+	left: 53px;
+	width: 612px;
+	height: 213px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 35px;
+	text-align: justified;
+	color:#000000;
+}
+
+#use_cases {
+	top: 1604px;
+	left: 0px;
+	width: 1440px;
+	height: 2319px;
+}
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1442px;
+	height: 2321px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#diagrama_de_casos_de_uso {
+	top: 115px;
+	left: 398px;
+	width: 657px;
+	height: 90px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#caso_de_uso___nnn {
+	top: 954px;
+	left: 398px;
+	width: 657px;
+	height: 90px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_2 {
+	top: 229px;
+	left: 40px;
+	width: 1372px;
+	height: 692px;
+}
+
+
+#rectangle_6 {
+	opacity:0;
+	top: 229px;
+	left: 40px;
+	width: 1388px;
+	height: 708px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 8px solid #e5e5e5;
+	background:rgba(217,217,217,0);
+}
+
+#nnn {
+	top: 1036px;
+	left: 34px;
+	width: 1372px;
+	height: 1229px;
+}
+
+#image_3 {
+	top: 0px;
+	left: 0px;
+	width: 681px;
+	height: 383px;
+}
+
+
+#image_4 {
+	top: 0px;
+	left: 717px;
+	width: 655px;
+	height: 383px;
+}
+
+
+#image_6 {
+	top: 409px;
+	left: 705px;
+	width: 667px;
+	height: 405px;
+}
+
+
+#image_5 {
+	top: 410px;
+	left: 1px;
+	width: 679px;
+	height: 404px;
+}
+
+
+#image_7 {
+	top: 846px;
+	left: 1px;
+	width: 679px;
+	height: 382px;
+}
+
+
+#image_8 {
+	top: 850px;
+	left: 705px;
+	width: 665px;
+	height: 379px;
+}
+
+#documenta__o_ux_e_fluxos {
+	top: 3924px;
+	left: 0px;
+	width: 1440px;
+	height: 5358px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 1442px;
+	height: 5360px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#documenta__o_ux_e_fluxo_de_telas {
+	top: 90px;
+	left: 336px;
+	width: 781px;
+	height: 144.01px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_30 {
+	top: 161px;
+	left: 512px;
+	width: 415px;
+	height: 738px;
+}
+
+
+#image_29 {
+	top: 1815px;
+	left: 975px;
+	width: 420px;
+	height: 747px;
+}
+
+
+#image_28 {
+	top: 3515px;
+	left: 975px;
+	width: 412px;
+	height: 733px;
+}
+
+
+#image_27 {
+	top: 2651px;
+	left: 975px;
+	width: 422px;
+	height: 750px;
+}
+
+
+#image_26 {
+	top: 4356px;
+	left: 51px;
+	width: 425px;
+	height: 938px;
+}
+
+
+#image_25 {
+	top: 3515px;
+	left: 512px;
+	width: 414px;
+	height: 736px;
+}
+
+
+#image_24 {
+	top: 1815px;
+	left: 519px;
+	width: 414px;
+	height: 737px;
+}
+
+
+#image_23 {
+	top: 4356px;
+	left: 967px;
+	width: 428px;
+	height: 761px;
+}
+
+
+#image_22 {
+	top: 2668px;
+	left: 517px;
+	width: 416px;
+	height: 739px;
+}
+
+
+#image_21 {
+	top: 4356px;
+	left: 512px;
+	width: 414px;
+	height: 736px;
+}
+
+
+#image_20 {
+	top: 3515px;
+	left: 46px;
+	width: 412px;
+	height: 733px;
+}
+
+
+#image_19 {
+	top: 972px;
+	left: 514px;
+	width: 419px;
+	height: 746px;
+}
+
+
+#image_18 {
+	top: 1815px;
+	left: 52px;
+	width: 417px;
+	height: 742px;
+}
+
+
+#image_17 {
+	top: 2665px;
+	left: 52px;
+	width: 414px;
+	height: 736px;
+}
+
+
+#image_16 {
+	top: 972px;
+	left: 49px;
+	width: 414px;
+	height: 737px;
+}
+
+
+#image_15 {
+	top: 155px;
+	left: 50px;
+	width: 418px;
+	height: 744px;
+}
+
+
+#image_14 {
+	top: 974px;
+	left: 983px;
+	width: 413px;
+	height: 734px;
+}
+
+
+#image_13 {
+	top: 155px;
+	left: 977px;
+	width: 415px;
+	height: 738px;
+}
+
+
+#arrow_1 {
+	top: 675px;
+	left: 256px;
+	width: 275.2px;
+	height: 37.19px;
+}
+
+
+#arrow_2 {
+	top: 323px;
+	left: 354px;
+	width: 225.01px;
+	height: 0px;
+}
+
+
+#arrow_3 {
+	top: 240px;
+	left: 770px;
+	width: 281.94px;
+	height: 27.58px;
+}
+
+
+#arrow_5 {
+	top: 1070px;
+	left: 591px;
+	width: 1579.29px;
+	height: 64px;
+}
+
+
+#arrow_12 {
+	top: 2180px;
+	left: 935px;
+	width: 740.43px;
+	height: 222.11px;
+}
+
+
+#arrow_13 {
+	top: 3033px;
+	left: 935px;
+	width: 740.43px;
+	height: 222.11px;
+}
+
+
+#arrow_6 {
+	top: 1008px;
+	left: 187px;
+	width: 1519.4px;
+	height: 277.1px;
+}
+
+
+#arrow_7 {
+	top: 751px;
+	left: 843px;
+	width: 471px;
+	height: 0px;
+}
+
+
+#arrow_8 {
+	top: 927px;
+	left: 666px;
+	width: 242.01px;
+	height: 0px;
+}
+
+
+#arrow_10 {
+	top: 920px;
+	left: 140px;
+	width: 242.01px;
+	height: 0px;
+}
+
+
+#arrow_9 {
+	top: 1214px;
+	left: -69px;
+	width: 1115.3px;
+	height: 300.54px;
+}
+
+
+#arrow_11 {
+	top: 1245px;
+	left: 821px;
+	width: 659px;
+	height: 0px;
+}
+
+
+#arrow_14 {
+	top: 2651px;
+	left: 620px;
+	width: 242.01px;
+	height: 0px;
+}
+
+
+#arrow_15 {
+	top: 3415px;
+	left: 668px;
+	width: 315px;
+	height: 0px;
+}
+
+
+#arrow_16 {
+	top: 2876px;
+	left: 323px;
+	width: 589.04px;
+	height: 0px;
+}
+
+
+#arrow_18 {
+	top: 4503px;
+	left: 837px;
+	width: 451px;
+	height: 0px;
+}
+
+
+#arrow_17 {
+	top: 2225px;
+	left: 15px;
+	width: 880.71px;
+	height: 197.53px;
+}
+
+
+#arrow_19 {
+	top: 4253px;
+	left: 230px;
+	width: 822.64px;
+	height: 405.12px;
+}
+
+
+#arrow_20 {
+	top: 4167px;
+	left: 987px;
+	width: 401.01px;
+	height: 0px;
+}
+
+#diagrama_er {
+	top: 9282px;
+	left: 0px;
+	width: 1440px;
+	height: 2282px;
+}
+
+#rectangle_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1442px;
+	height: 2284px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#diagrama_entidade_relacionamento {
+	top: 108px;
+	left: 339px;
+	width: 781px;
+	height: 144.01px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#dicion_rio_de_dados {
+	top: 700px;
+	left: 336px;
+	width: 781px;
+	height: 144.01px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_9 {
+	top: 218px;
+	left: 51px;
+	width: 1344px;
+	height: 392px;
+}
+
+
+#image_11 {
+	top: 10092px;
+	left: 101px;
+	width: 1244px;
+	height: 458px;
+}
+
+
+#image_12 {
+	top: 10604px;
+	left: 101px;
+	width: 1243px;
+	height: 548px;
+}
+
+#diagrama_er_ek1 {
+	top: 11560px;
+	left: 0px;
+	width: 1440px;
+	height: 1428px;
+}
+
+#rectangle_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1442px;
+	height: 1430px;
+	border: 1px solid #000000;
+	background:rgba(207.19,211.97,255,1);
+}
+
+
+#quatro_camadas_do_modelo_c4 {
+	top: 73px;
+	left: 336px;
+	width: 781px;
+	height: 76.39px;
+	overflow: hidden;
+	font-family: League Spartan;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_10 {
+	top: 168px;
+	left: 200px;
+	width: 1041px;
+	height: 1188.57px;
+}
+
+
+
+/* Add your custom CSS here */
