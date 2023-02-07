@@ -1,0 +1,105 @@
+h1 {
+    color: black;
+    font-size: 50px;
+    margin: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    padding: 50px;
+}
+
+a {
+    color: blue;
+    font-size: 20px;
+}
+
+.content {
+    max-width: 40%;
+    height: 500px;
+}
+
+#use_cases {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#system_met {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#er_diag {
+    margin-top: 30px;
+    max-width: 80%;
+    align-items: center;
+    text-align: center;
+}
+
+#c4_model {
+    margin-top: 30px;
+    max-width: 80%;
+    align-items: center;
+    text-align: center;
+}
+
+
+#use_cases_img {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#system_met_img {
+    width: 100%;
+}
+
+#er_diag_img {
+    width: 50%;
+    margin: 30px;
+}
+
+#wireframes {
+    align-items: center;
+    text-align: center;
+}
+
+
+
+#telas {
+    align-items: center;
+    text-align: center;
+}
+
+#esp_uc {
+    text-align: center;
+}
+
+.teste {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#data_dic {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
