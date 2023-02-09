@@ -25,6 +25,33 @@ a {
     font-size: 20px;
 }
 
+.landpage {
+    background-color: orange;
+    margin: -10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#agenda_mps_img {
+    margin: -50px;
+}
+
+#documentation {
+    color: white;
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    font-size: 30px;
+    
+}
+
+#documentation.poiter {
+    cursor: pointer;
+}
+
 .content {
     max-width: 40%;
     height: 500px;
