@@ -31,11 +31,12 @@ a {
     align-items: center;
     justify-content: center;
     text-align: center;
+    width: 100%;
 
 }
 
 #agenda_mps_img {
-    margin: -50px;
+    width: 100%;
 }
 
 #documentation {
